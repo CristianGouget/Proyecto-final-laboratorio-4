@@ -20,6 +20,6 @@ La aplicación ha sido dockerizada para facilitar su despliegue.
 ## Enlaces Útiles
 
 - [Frontend en Vue.js]([link_del_frontend](https://github.com/CristianGouget/Proyecto-final-laboratorio-4/tree/main/frontend)https://github.com/CristianGouget/Proyecto-final-laboratorio-4/tree/main/frontend)
-- [Backend en Spring Boot](link_del_backend)
+- [Backend en Spring Boot]([link_del_backend](https://github.com/CristianGouget/Proyecto-final-laboratorio-4/tree/main/backend)https://github.com/CristianGouget/Proyecto-final-laboratorio-4/tree/main/backend)
 
 ¡Gracias por revisar mi proyecto!
